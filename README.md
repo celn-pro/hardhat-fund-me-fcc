@@ -45,7 +45,7 @@ This project is apart of the Hardhat FreeCodeCamp video.
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://https://github.com/celn-pro/hardhat-fund-me-fcc
 cd hardhat-fund-me-fcc
 yarn
 ```
@@ -62,7 +62,7 @@ git checkout typescript
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-fund-me-fcc)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/celn-pro/hardhat-fund-me-fcc)
 
 # Usage
 
